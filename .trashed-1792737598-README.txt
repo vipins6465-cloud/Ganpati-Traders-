@@ -1,0 +1,20 @@
+GANPATI TRADERS — E-COMMERCE WEBSITE V2
+
+Open index.html to preview.
+
+Included:
+- Premium responsive storefront
+- Search
+- Category filters
+- Product cards
+- Shopping cart
+- Checkout-ready button
+- Contact/enquiry form
+- Mobile responsive design
+
+For production:
+- Replace demo products with real catalogue/photos
+- Add real business phone/WhatsApp/email/address
+- Connect database/admin authentication
+- Connect payment gateway and shipping provider
+- Add real order tracking, policies and customer accounts
